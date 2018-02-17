@@ -13,7 +13,7 @@ class App extends Component {
       projectId: 'nativefirebaseauth',
       storageBucket: 'nativefirebaseauth.appspot.com',
       messagingSenderId: '527840596899'
-  })
+    })
   }
 
   render() {
