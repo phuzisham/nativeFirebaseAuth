@@ -19,5 +19,8 @@
   },
   "jest": {
     "preset": "react-native"
-  }
+  },
+  "main": "index.js",
+  "author": "David Hale <david.hale7@gmail.com>",
+  "license": "MIT"
 }
