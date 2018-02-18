@@ -25,7 +25,8 @@ const Styles = {
     shadowOffset: { width: 0, height: 2 },
     shadowOpacity: 0.2,
     elevation: 2,
-    position: 'relative'
+    position: 'relative',
+    marginBottom: 40
   },
   textStyle: {
     fontSize: 20
